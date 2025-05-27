@@ -1,0 +1,7 @@
+-- CreateTable
+CREATE TABLE "Qutoe" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "text" TEXT NOT NULL
+);
+
+
